@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on various small projects to help me with understanding of various concepts.
-- 🌱 I’m currently learning C, Python, Java, HTML, CSS, DSA.
+- 🌱 I’m currently learning Java, HTML, CSS, DSA.
 - 👯 I’m looking to collaborate on nothing yet.
 - 🤔 I’m looking for help with various topics that I am learning currently
 - 💬 Ask me about my greatness
