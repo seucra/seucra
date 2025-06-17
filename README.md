@@ -1,8 +1,8 @@
 #    About Me
 
-> B.Tech CSE Student at VIT Wadala | Adjusting Practice and diligence in daily-life
+B.Tech CSE Student at VIT Wadala
 
-2nd Year | learning C, Python, Java, HTML, CSS, DS
+> 2nd Year | learning C, Python, Java, HTML, CSS, DS | Adjusting Practice and diligence in daily-life
 
 <!--
 **seucra/seucra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
