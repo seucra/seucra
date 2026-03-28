@@ -1,10 +1,6 @@
 # <p align="center">Welcome to my Forge, traveler.</p>
 
 <p align="center">
-  <img src="banner.png" alt="SEUCRA Banner" width="100%">
-</p>
-
-<p align="center">
   <a href="https://github.com/seucra">
     <img src="https://img.shields.io/badge/Status-B.Tech_CSE-00ffcc?style=for-the-badge&logo=codepen&logoColor=white" alt="Status">
   </a>
@@ -24,6 +20,24 @@ I'm a **B.Tech Computer Engineering** student at **VIT Wadala**, currently navig
 - 🔭 **Current Focus:** Data Structures, Python, C, and Java.
 - 🌱 **Learning Journey:** Exploring the intersections of Cyber Security and Full-Stack Development.
 - ⚡ **Philosophy:** "Adjusting practice and diligence in daily life to build excellence."
+
+---
+
+### 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/seucra/FDIA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seucra&repo=FDIA&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/seucra/kittykat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seucra&repo=kittykat&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/seucra/btech-academic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seucra&repo=btech-academic&theme=tokyonight&hide_border=true" width="100%" />
+  </a>
+</p>
 
 ---
 
