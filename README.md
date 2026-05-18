@@ -1,38 +1,37 @@
 # seucra
 
 **B.Tech Computer Engineering student at VIT Wadala**
-*2nd Year | Learning C, Python, Java, HTML, CSS, Data Structures*
+*Completed 2nd Year | Currently in Semester 5*
 
 ---
 
 ### 🔮 About Me
-I'm currently focused on improving my skillset through knowledge, practice, and hard work. I enjoy solving problems and exploring the intersections of software engineering and cybersecurity.
+I am driven by a strong learning mindset and a deep desire to build a career in the **Cybersecurity** field. I enjoy solving complex problems, writing clean code, and constantly expanding my technical skillset through hands-on practice.
 
-- 🔭 **Current Focus:** Data Structures, Python, C, and Java.
-- 🌱 **Learning:** Cyber Security and Full-Stack Development.
-- ⚡ **Daily Goal:** Adjusting practice and diligence in daily life to build excellence.
+- 🔭 **Current Focus:** Cybersecurity, System Architecture, and Advanced Data Structures.
+- 🌱 **Learning:** Secure Application Design, Threat Modeling, and Backend Development.
+- ⚡ **Daily Goal:** Cultivating diligence and continuous learning to achieve technical excellence.
 
 ---
 
-### 🚀 Projects
+### 🚀 Public Projects
 
-- **[FDIA](https://github.com/seucra/FDIA)** — A bare-metal File Recovery Tool.
-- **[kittykat](https://github.com/seucra/kittykat)** — Sparsha NGO Project.
-- **[btech-academic](https://github.com/seucra/btech-academic)** — All semester-wise academic codes & notes.
-- **[blog](https://github.com/seucra/blog)** — Personal blog and documentation.
+Here are a few of my highlighted public repositories:
+
+- **[budget-allocation-subset-sum](https://github.com/seucra/budget-allocation-subset-sum)** — A command-line tool applying the Subset Sum algorithm for budget allocation problems.
+- **[Chess](https://github.com/seucra/chess)** — A chess engine implementation.
+- **[SIH2025](https://github.com/seucra/SIH2025)** — Python/FastAPI backend application built for the Smart India Hackathon.
+- **[portfolio](https://github.com/seucra/portfolio)** — A brutalist, monochrome single-page personal portfolio.
+
+*(Note: Several of my academic and enterprise projects, such as the Sparsha OMS and University OS Simulators, are maintained in private monorepos.)*
 
 ---
 
 ### 🛠️ Technical Stack
 
-**Languages:**  
-C, Python, Java, HTML, CSS, JavaScript
-
-**Web Development:**  
-Astro, React
-
-**Tools & Others:**  
-Git, Linux, VS Code, Data Structures
+**Core:** C, Python, Java, JavaScript, TypeScript  
+**Web & Backend:** React, Node.js, FastAPI, Prisma, PostgreSQL  
+**Cybersecurity & Tools:** Git, Linux, Web Security, Encryption (AES-GCM)  
 
 ---
 
